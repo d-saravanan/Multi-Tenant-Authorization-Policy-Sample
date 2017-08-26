@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.26823.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WingTailApp", "WingTailApp\WingTailApp.csproj", "{A8C2C43D-9369-4026-BFC6-7E3985BA3152}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MT.Framework.Core", "MT.Framework.Core\MT.Framework.Core.csproj", "{8F7D803E-33BF-43D1-8065-EE8F33D5F9A8}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A8C2C43D-9369-4026-BFC6-7E3985BA3152}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A8C2C43D-9369-4026-BFC6-7E3985BA3152}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A8C2C43D-9369-4026-BFC6-7E3985BA3152}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A8C2C43D-9369-4026-BFC6-7E3985BA3152}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8F7D803E-33BF-43D1-8065-EE8F33D5F9A8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8F7D803E-33BF-43D1-8065-EE8F33D5F9A8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8F7D803E-33BF-43D1-8065-EE8F33D5F9A8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8F7D803E-33BF-43D1-8065-EE8F33D5F9A8}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {BB822742-F43B-4ADB-9CFC-375959F009CE}
+	EndGlobalSection
+EndGlobal
